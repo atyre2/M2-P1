@@ -1,7 +1,7 @@
 library(shiny)
 library(ggplot2)
 
-pheasants <- read.csv("data/NE_Pheasant_1951-2004.csv")
+pheasants <- read.csv("data/NE_pheasant_1951-2004.csv")
 
 #testing
 # input <- list(tp1b0 = 0.2, tp1d0 = 0.25, tp1N0 = 15,

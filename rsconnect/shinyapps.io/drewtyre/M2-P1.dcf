@@ -1,0 +1,10 @@
+name: M2-P1
+account: drewtyre
+server: shinyapps.io
+appId: 104103
+bundleId: 461627
+url: https://drewtyre.shinyapps.io/M2-P1/
+when: 1464114287.06555
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: introduction.Rmd
